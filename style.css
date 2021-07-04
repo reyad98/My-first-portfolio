@@ -1,0 +1,33 @@
+body{
+    font-family: 'Bree Serif', serif;
+}
+h1
+{
+    font-size: 45px;
+}
+.org
+{
+    color: orange;
+}
+section{
+    display:flex;
+}
+.half{
+    width: 50%;
+    padding-left : 5%;
+   
+}
+,.half image{
+    width: 100%;
+}
+
+.link
+{
+    text-decoration: none;
+    background-color: rgb(253, 173, 24);
+ 
+
+}
+
+
+
