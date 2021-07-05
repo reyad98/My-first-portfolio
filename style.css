@@ -71,7 +71,7 @@ img
 
 .bhalf{
     width: 40%;
-    text-align: justify;
+    
     margin-left:5%;
     margin-right: 5%;
     padding-left: 10px;
@@ -82,7 +82,11 @@ img
 }
 .ex
 {
-
+    background-image:url(images/blacksome.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position:left;
+    background-blend-mode: soft-light;
 }
 #web-ex
 {
@@ -93,6 +97,13 @@ img
 
 footer p{
     text-align: center;
+}
+.bgm{
+    background-image:url(images/smokeblue.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position:right;
+    background-blend-mode: lighten;
 }
 
 
