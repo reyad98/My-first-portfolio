@@ -11,11 +11,12 @@ h1
 }
 section{
     display:flex;
+    margin: 100px;
 }
 .half{
     width: 50%;
     padding-left : 5%;
-   text-align: justify;
+    text-align: justify;
 }
 ,.half image{
     width: 100%;
@@ -34,14 +35,33 @@ section{
     
 img
 {
-    padding-top: 23%;
+    padding-top: 29%;
     height: 270px;
     width: 500px;
     border-radius: 10px 10px;
 }
-.top
+.tnd
 {
-    
+    padding-top: 50px;
+    height: 350px;
+    width: 350px;
+}
+.my
+{
+    color: tomato;
+}
+.nd{
+    padding-top: 30px;
+    height: 300px;
+    width: 285px;
+}
+.newlink{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(62, 243, 213),green);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
 }
 
 
