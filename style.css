@@ -12,6 +12,7 @@ h1
 .cflex{
     display:flex;
     margin: 100px;
+    ;
 }
 .half{
     width: 50%;
@@ -90,6 +91,8 @@ img
     border-image-slice:1;
 }
 
-
+footer p{
+    text-align: center;
+}
 
 
