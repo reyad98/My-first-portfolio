@@ -9,7 +9,7 @@ h1
 {
     color: orange;
 }
-section{
+.cflex{
     display:flex;
     margin: 100px;
 }
@@ -52,6 +52,7 @@ img
 }
 .nd{
     padding-top: 30px;
+    padding-left: 100px;
     height: 300px;
     width: 285px;
 }
@@ -63,8 +64,31 @@ img
     color: white;
     font-weight: 400;
 }
+.xx{
+    padding-left: 150px;
+}
 
+.bhalf{
+    width: 40%;
+    text-align: justify;
+    margin-left:5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 30px gray;
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(83, 243, 182),blue);
+    border-image-slice:1;
+}
+.ex
+{
 
+}
+#web-ex
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(243, 160, 83),rgb(255, 0, 34));
+    border-image-slice:1;
+}
 
 
 
