@@ -15,19 +15,37 @@ section{
 .half{
     width: 50%;
     padding-left : 5%;
-   
+   text-align: justify;
 }
 ,.half image{
     width: 100%;
+    
 }
 
 .link
 {
     text-decoration: none;
-    background-color: rgb(253, 173, 24);
- 
-
+    background-image: linear-gradient(rgb(240, 38, 72),rgb(238, 96, 233)); 
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
 }
+    
+img
+{
+    padding-top: 23%;
+    height: 270px;
+    width: 500px;
+    border-radius: 10px 10px;
+}
+.top
+{
+    
+}
+
+
+
 
 
 
